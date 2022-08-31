@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df3fa321.chunk.css",
+    "main.js": "/static/js/main.10dc05bb.chunk.js",
+    "main.js.map": "/static/js/main.10dc05bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cbff2fe2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cbff2fe2.js.map",
+    "static/js/2.7e1041e0.chunk.js": "/static/js/2.7e1041e0.chunk.js",
+    "static/js/2.7e1041e0.chunk.js.map": "/static/js/2.7e1041e0.chunk.js.map",
+    "static/js/3.7b34befb.chunk.js": "/static/js/3.7b34befb.chunk.js",
+    "static/js/3.7b34befb.chunk.js.map": "/static/js/3.7b34befb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.df3fa321.chunk.css.map": "/static/css/main.df3fa321.chunk.css.map",
+    "static/js/2.7e1041e0.chunk.js.LICENSE.txt": "/static/js/2.7e1041e0.chunk.js.LICENSE.txt",
+    "static/media/cronosLogo.17357c58.png": "/static/media/cronosLogo.17357c58.png",
+    "static/media/reset.css": "/static/media/font.617a0a92.woff",
+    "static/media/hero.970bd19d.gif": "/static/media/hero.970bd19d.gif",
+    "static/media/metamaskLogo.eff97b70.webp": "/static/media/metamaskLogo.eff97b70.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbff2fe2.js",
+    "static/js/2.7e1041e0.chunk.js",
+    "static/css/main.df3fa321.chunk.css",
+    "static/js/main.10dc05bb.chunk.js"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "CONTRACT_ADDRESS": "0xf2d457eAEaF2905aC2EF442c17Af3e662556229d",
+  "SCAN_LINK": "https://cronoscan.com/token/0xf2d457eAEaF2905aC2EF442c17Af3e662556229d",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "Cro",
+    "ID": 25
+  },
+  "TOKEN_NAME": "LICK",
+  "SYMBOL": "LICK",
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 1120000
+}
